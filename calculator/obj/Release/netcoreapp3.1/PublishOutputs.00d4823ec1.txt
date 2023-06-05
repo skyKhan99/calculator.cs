@@ -1,0 +1,5 @@
+C:\Users\gokhan.hacioglu\source\repos\calculator\bin\Release\netcoreapp3.1\publish\calculator.exe
+C:\Users\gokhan.hacioglu\source\repos\calculator\bin\Release\netcoreapp3.1\publish\calculator.dll
+C:\Users\gokhan.hacioglu\source\repos\calculator\bin\Release\netcoreapp3.1\publish\calculator.deps.json
+C:\Users\gokhan.hacioglu\source\repos\calculator\bin\Release\netcoreapp3.1\publish\calculator.runtimeconfig.json
+C:\Users\gokhan.hacioglu\source\repos\calculator\bin\Release\netcoreapp3.1\publish\calculator.pdb
